@@ -32,6 +32,8 @@ Product-wise Contribution
 
 YoY Growth
 
+Data modeling and DAX measures implemented in Power BI for KPI calculation.
+
 **Key Insights**
 
 iPhone 15 Pro Max contributed 14% margin growth.
