@@ -1,3 +1,5 @@
+**DATA ANALYST PORTFOLIO PROJECT**
+
 **iPhone Sales Analysis & Dashboard**
 
 **📌 Project Overview**
@@ -34,8 +36,7 @@ YoY Growth
 
 iPhone 15 Pro Max contributed 14% margin growth.
 
-Online sales channel showed higher revenue concentration in metro cities.
-
+Online sales channel contributed disproportionately higher revenue in metro cities, indicating strong digital penetration in urban markets.
 Western region generated highest net sales among all regions.
 
 Discount rate significantly impacted gross margin.
@@ -86,3 +87,13 @@ Revenue optimization
 Margin monitoring
 
 Regional strategy planning
+
+**🎯 Business Recommendations**
+
+Focus marketing efforts on high-margin models like iPhone 15 Pro Max.
+
+Optimize discount strategies to protect gross margins.
+
+Expand online sales campaigns in metro cities to maximize revenue concentration.
+
+Strengthen performance in lower-performing regions through targeted pricing strategies.
